@@ -1,1 +1,6 @@
-print("hello world")
+name = input()
+lastname = input()
+age = int(input())
+phone = input()
+email = input()
+address = input()
